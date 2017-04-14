@@ -1,6 +1,67 @@
 [
   {
-    "name" : "value",
-    "image" : "image.png"
+    "name" : "Breakfast",
+    "items" : [
+      {
+        "name" : "Eggs",
+        "image" : "eggs.png",
+        "price" : 5
+      },
+      {
+        "name" : "Bacon",
+        "image" : "bacon.png",
+        "price" : 10
+      },
+      {
+        "name" : "Chocolate Milk",
+        "image" : "milk.png",
+        "price" : 2
+      }
+    ]
+  },
+  {
+    "name" : "Lunch",
+    "items" : [
+      {
+        "name" : "Ham Sandwhich",
+        "image" : "sandwhich.png",
+        "price" : 20
+      },
+      {
+        "name" : "Salad",
+        "image" : "salad.png",
+        "price" : 12
+      },
+      {
+        "name" : "French Onion Soup",
+        "image" : "soup.png",
+        "price" : 9
+      },
+      {
+        "name" : "Box of Granola Bars",
+        "image" : "granola.png",
+        "price" : 18
+      }
+    ]
+  },
+  {
+    "items" : "Dinner",
+    "items" : [
+      {
+        "name" : "Pot Roast",
+        "image" : "beef.png",
+        "price" : 60
+      },
+      {
+        "name" : "18\" Pizza",
+        "image" : "pizza.png",
+        "price" : 50
+      },
+      {
+        "name" : "Organic Burger",
+        "image" : "burger.png",
+        "price" : 45
+      }
+    ]
   }
 ]
