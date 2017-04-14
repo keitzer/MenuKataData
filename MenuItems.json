@@ -45,7 +45,7 @@
     ]
   },
   {
-    "items" : "Dinner",
+    "name" : "Dinner",
     "items" : [
       {
         "name" : "Pot Roast",
