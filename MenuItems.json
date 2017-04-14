@@ -23,8 +23,8 @@
     "name" : "Lunch",
     "items" : [
       {
-        "name" : "Ham Sandwhich",
-        "image" : "sandwhich.png",
+        "name" : "Ham Sandwich",
+        "image" : "sandwich.png",
         "price" : 20
       },
       {
